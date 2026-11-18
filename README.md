@@ -3,7 +3,7 @@
 - 👀 My interests include Penetration Testing, Vulnerability Assessment, Digital Forensics & Incident Response (DFIR), and incorporating Agentic AI into these interests
 - 💞️ I’m focused on enhancing my skills through SEED Labs and attending Blue Cape Security workshops whenever possible
 - Pronouns: (he/him)
-- Feel free to have a look around!
+- Please feel free to have a look around!
 
 <!---
 Abdulfatah-Abdillahi/Abdulfatah-Abdillahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
